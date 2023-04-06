@@ -1,0 +1,1 @@
+[{"ItemID":1,"ItemName":"Steak","Price":16.99,"Description":"Roast beef","IsNew":false},{"ItemID":2,"ItemName":"Salad `Caesar`","Price":8.95,"Description":"The romaine lettuce is cold and crunchy, the dressing creamy and briny, and the croutons craggy and freshly made","IsNew":false}]

@@ -1,0 +1,1 @@
+[{"OrderID":3,"ClientID":2,"OrderName":"Beef","TableID":3,"WaiterID":1,"Tips":0.0,"Status":1,"Created":"2023-04-06T20:07:55.6826725+03:00","Ended":"0001-01-01T00:00:00"}]
